@@ -1,0 +1,58 @@
+.Image-make{
+    
+ border-radius: 25%;
+ margin-top: -7%;
+ display: block;
+  max-width: 10%;
+  height: auto;
+
+
+
+ background-color: red;
+ }
+
+.Image-down{
+
+    color: white;
+    background-color: red;
+    margin-top: 12%;
+    margin-left: 1%;
+
+}
+
+.Image-power{
+    margin-left: 5%;
+
+    
+}
+
+.text-style{
+    margin-left: 5%;
+    color: rgb(8, 3, 248);
+}
+
+.text-up{
+
+    margin-left: 5%;
+    color: blue;
+}
+
+.text-side{
+    margin-left: 3%;
+    
+}
+
+.text-corner{
+    margin-left: 2%; 
+   
+}
+
+.image-side{
+    margin-left: 2%;
+    color: white;
+    background-color: rgb(245, 0, 102);
+}
+.Image-death{
+
+    margin-left: 2%;
+}
